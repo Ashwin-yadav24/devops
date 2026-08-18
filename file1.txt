@@ -1,2 +1,2 @@
 this is my first file of git repo practice
-
+made changes directly on github
